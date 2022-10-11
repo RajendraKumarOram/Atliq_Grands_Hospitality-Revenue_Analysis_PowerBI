@@ -20,3 +20,10 @@ You are a data analyst who has been provided with sample data and a mock-up dash
 * Create relevant insights that are not provided in the metric list/mock-up dashboard.
 
 # Provided Mock-up Dashboard
+![mock up dashboard_atliq grands](https://user-images.githubusercontent.com/92287466/195145069-4b922b6f-29e3-4943-8cd7-5edea422f3ad.png)
+# Data Model
+![Data Model](https://user-images.githubusercontent.com/92287466/195145253-20be4ec3-4b59-4a8b-ada8-a7d88934c60e.png)
+# Overal Analysis
+![Dashboard](https://user-images.githubusercontent.com/92287466/195145376-4795b6c3-2bce-46bb-b909-d67d92d6082c.png)
+![Dashboard-Revenue](https://user-images.githubusercontent.com/92287466/195145395-b4d50f78-3c40-4f7c-8ed7-85a3cae8b11e.png)
+![Dashboard-Rooms-City](https://user-images.githubusercontent.com/92287466/195145412-51acc3dd-57d5-48dc-8a98-b62db28c300c.png)
