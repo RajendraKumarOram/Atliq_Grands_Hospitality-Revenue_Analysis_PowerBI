@@ -1,5 +1,5 @@
 # Atliq_Grands_Hospitality-Revenue_Analysis_PowerBI
-As part of the codebasics resume project challenge for the september month, I have worked on the following project.
+As part of the codebasics resume project challenge for themonth of september 2022, I have worked on the following project.
 
 * Link to the [Challenge](https://codebasics.io/event/codebasics-resume-project-challenge "Challenge")
 
