@@ -1,11 +1,9 @@
 # Atliq_Grands_Hospitality-Revenue_Analysis_PowerBI
-As part of the codebasics september month resume challenge, I have worked on this analysis project.
+As part of the codebasics resume project challenge for the september month, I have worked on the following project.
 
-Link to the [Challenge][1]
+Link to the [Challenge](https://codebasics.io/event/codebasics-resume-project-challenge "Challenge")
 
-Link to [Interactive Dashboard][2]
-[1]:https://codebasics.io/event/codebasics-resume-project-challenge "Challenge"
-[2]:https://sites.google.com/view/rajendra-kumar-oram/projects/revenue/atliq-grands?authuser=0
+Link to [Interactive Dashboard](https://sites.google.com/view/rajendra-kumar-oram/projects/revenue/atliq-grands?authuser=0)
 
 # Problem statement
 Atliq Grands owns multiple five-star hotels across India. They have been in the hospitality industry for the past 20 years. Due to strategic moves from other competitors and ineffective decision-making in management, Atliq Grands are losing its market share and revenue in the luxury/business hotels category. As a strategic move, the managing director of Atliq Grands wanted to incorporate “Business and Data Intelligence” in order to regain their market share and revenue. However, they do not have an in-house data analytics team to provide them with these insights.
